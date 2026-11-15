@@ -1,4 +1,4 @@
-# etb-speedrun-bot-v2
+# ETB Speedrun Bot v2
 
 [![CI](https://github.com/MattFor/etb-speedrun-bot-v2/actions/workflows/ci.yml/badge.svg)](https://github.com/MattFor/etb-speedrun-bot-v2/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
